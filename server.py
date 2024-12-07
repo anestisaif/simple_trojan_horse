@@ -1,7 +1,7 @@
 import socket
 
-HOST = 'dumbfounded122222' # terminal: ip (linux)
-PORT = 9090
+HOST = '78.87.140.33' # terminal: ip (linux)
+PORT = 135
 
 server = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 server.bind((HOST, PORT))
